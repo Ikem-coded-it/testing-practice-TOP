@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice-top",
+  "version": "1.0.0",
+  "description": "Practising TDD with Jest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ikem-coded-it/testing-practice-TOP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ikem-coded-it/testing-practice-TOP/issues"
+  },
+  "homepage": "https://github.com/Ikem-coded-it/testing-practice-TOP#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
