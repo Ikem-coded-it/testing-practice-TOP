@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/Ikem-coded-it/testing-practice-TOP#readme",
   "devDependencies": {
+    "@babel/core": "^7.21.8",
+    "@babel/preset-env": "^7.21.5",
+    "babel-jest": "^29.5.0",
     "jest": "^29.5.0"
   }
 }
